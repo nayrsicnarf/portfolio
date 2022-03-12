@@ -30,7 +30,7 @@ By using skills such as media query; Flexbox, and box styling, I am able to styl
 
 ## Installation
 
-To view this webpage on a local machine, pull the code from [GitHub](https://github.com/nayrsicnarf/Semantic_Markup_HW1.git) using Terminal (Mac) or Git (Windows) and use the following (or similar) programs:
+To view this webpage on a local machine, pull the code from [GitHub](https://github.com/nayrsicnarf/portfolio.git) using Terminal (Mac) or Git (Windows) and use the following (or similar) programs:
 
 - Operating System: macOS Monterey Version 21.1
 - Visual Studio Code: Version 1.64.2
