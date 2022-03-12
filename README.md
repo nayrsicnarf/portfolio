@@ -19,9 +19,9 @@ By using skills such as media query; Flexbox, and box styling, I am able to styl
 
 ## GitHub Repository and Page
 
-- [GitHub Repository](https://github.com/nayrsicnarf/My-Portfolio.git)
+- [GitHub Repository](https://github.com/nayrsicnarf/portfolio.git)
 
-- [GitHub Page](https://nayrsicnarf.github.io/My-Portfolio/)
+- [GitHub Page](https://nayrsicnarf.github.io/portfolio/)
 
 ## Technologies
 
@@ -39,7 +39,7 @@ To view this webpage on a local machine, pull the code from [GitHub](https://git
 
 ## Usage
 
-To view the completed project, visit my [GitHub Page](https://github.com/nayrsicnarf/My-Portfolio.git) or refer to the [Installation](#installation) section of this README.
+To view the completed project, visit my [GitHub Page](https://github.com/nayrsicnarf/portfolio.git) or refer to the [Installation](#installation) section of this README.
 
 ## Screenshot
 
