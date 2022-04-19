@@ -43,7 +43,7 @@ To view the completed project, visit my [GitHub Page](https://github.com/nayrsic
 
 ## Screenshot
 
-![Web-Page-Screenshot](./assets/images/Francis's-Portfolio.png)
+![Web-Page-Screenshot](./assets/images/portfolio.png)
 
 ## Credits
 

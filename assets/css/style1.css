@@ -7,7 +7,7 @@ body {
 
 span {
     color: #fff;
-    font-size: 50px;
+    font-size: 45px;
 }
 
 .nav {
@@ -17,47 +17,25 @@ span {
 
 .navbar-nav {
     font-size: 25px;
-    text-align: right;
 }
 
-/* about me container background color */
 .about-me,
 .portfolio,
 .links {
     background-color: #aaaaaa;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
-
-/* navbar brand, submit button, and contact info font color */
-.navbar-brand,
-.btn,
-.contact-header {
-    color: white;
-}
-
-/* for main section header titles except contact info */
 h1 {
-    color: #2e151b;
+    color: black;
 }
 
-/* for index about me selfie  */
-.selfieImg {
+.selfPortrait {
     float: left;
     height: 250px;
     width: 200px;
     border-radius: 20px 0 20px 0;
-}
-
-/* to clear the float form the .selfieImg */
-.clear {
-    clear: both;
-}
-
-/* contact info section */
-.contact-border-background {
-    border-left: solid;
-    border-left-color: gray;
-    background-color: #5680e9;
 }
 
 /* unvisited link */
@@ -70,24 +48,20 @@ a:visited {
     color: #371368;
 }
 
-/* hover pseudoclass for when a user hovers the mouse pointer over the link */
 a:hover {
-    color: red;
-    font-size: 1.3rem;
+    color: white;
+    font-size: 20px;
 }
 
-/* focus pseudoclass for when a user tabs over the links. When tabbed over, these links will change to the specified font-size and color*/
 a:focus {
     font-size: 15px;
     color: #001180;
 }
 
-/* active pseudoclass for a link that has been selected (mouse click pressed but not released) */
 a:active {
     color: orange;
 }
 
-/* footer, footer paragraph, and general inquiries container */
 footer,
 footer p {
     background-color: #53697e;
