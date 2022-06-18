@@ -2,13 +2,16 @@
 
 ## Table of Contents
 
-- [Description](#description)
-- [GitHub Repository and Page](#GitHub-Repository-and-Page)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshot](#screenshot)
-- [Credits](#credits)
+- [Portfolio](#portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [GitHub Repository and Page](#github-repository-and-page)
+  - [Technologies](#technologies)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Screenshot](#screenshot)
+  - [Github, LinkedIn, and Resume Links](#github-linkedin-and-resume-links)
+  - [Credits](#credits)
 
 ## Description
 
@@ -43,7 +46,13 @@ To view the completed project, visit my [GitHub Page](https://github.com/nayrsic
 
 ## Screenshot
 
-![Web-Page-Screenshot](./assets/images/portfolio.png)
+![Web-Page-Screenshot](./assets/images/FrancisPortfolio.png)
+
+## Github, LinkedIn, and Resume Links
+
+- [Github](https://github.com/nayrsicnarf)
+- [LinkedIn](https://www.linkedin.com/in/fryaguinaldo/)
+- [Resume](https://drive.google.com/file/d/1O7y4hDFuR21z7Flgo31c7kXA-AtMk0DJ/view?usp=sharing)
 
 ## Credits
 
